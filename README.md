@@ -1,6 +1,4 @@
 # Quantum Genetic Algorithm (QGA)
-
-## Deskripsi
 Quantum Genetic Algorithm (QGA) adalah metode optimisasi yang menggabungkan prinsip-prinsip algoritma genetik dengan mekanika kuantum. QGA digunakan untuk menemukan solusi optimal dalam masalah yang kompleks dengan memanfaatkan superposisi dan interferensi kuantum.
 
 ## Tujuan
