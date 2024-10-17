@@ -17,3 +17,8 @@ Grafik yang dihasilkan menunjukkan perkembangan rata-rata fitness dari generasi 
 - **Y-Axis**: Rata-rata Fitness
   
 ![Untitled](https://github.com/user-attachments/assets/7c57eb42-d650-4757-a8df-7c7c42c7f5b2)
+
+## Source
+
+[https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms/blob/master/QGA.py](https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms/tree/master)
+http://arxiv.org/ftp/arxiv/papers/0804/0804.1133.pdf
