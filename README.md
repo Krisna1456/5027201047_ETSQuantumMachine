@@ -15,5 +15,5 @@ Fitness dalam konteks QGA mengacu pada nilai yang menunjukkan seberapa baik indi
 Grafik yang dihasilkan menunjukkan perkembangan rata-rata fitness dari generasi ke generasi. 
 - **X-Axis**: Generasi
 - **Y-Axis**: Rata-rata Fitness
-- 
+  
 ![Untitled](https://github.com/user-attachments/assets/7c57eb42-d650-4757-a8df-7c7c42c7f5b2)
