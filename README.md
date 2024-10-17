@@ -20,3 +20,6 @@ Grafik yang dihasilkan menunjukkan perkembangan rata-rata fitness dari generasi 
 
 [https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms/blob/master/QGA.py](https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms/tree/master)
 http://arxiv.org/ftp/arxiv/papers/0804/0804.1133.pdf
+
+## Video
+https://youtu.be/cYd1T6TQvZk
