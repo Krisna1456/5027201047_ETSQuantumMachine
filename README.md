@@ -12,7 +12,7 @@ Tujuan dari QGA ini adalah:
 ## Fitness
 Fitness dalam konteks QGA mengacu pada nilai yang menunjukkan seberapa baik individu (solusi) dalam populasi memenuhi kriteria yang ditetapkan. Fitness yang lebih tinggi berarti solusi yang lebih baik.
 
-Fitness menggunakan fungsi optimasi f(x)=abs(x-5/2+sin(x)) untuk digunakan sebagai visualisasi hasil algoritma
+Fitness menggunakan fungsi optimasi f(x)=abs(x-5/2+sin(x)) dengan range 0 <= x <= 15 dengan maksimum x = 11 (1011 dalam bentuk binary), fitness digunakan sebagai visualisasi hasil algoritma
 
 'def Fitness_evaluation(generation):
     i=1; j=1; fitness_total=0; sum_sqr=0;
